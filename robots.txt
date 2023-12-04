@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cantinhomistico11.com.br/sitemap.xml
